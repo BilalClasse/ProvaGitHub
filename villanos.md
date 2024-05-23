@@ -1,4 +1,3 @@
 * Thanos
 * Joker
 * Predator
-* Pennywise

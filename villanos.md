@@ -2,3 +2,5 @@
 * Joker
 * Predator
 * Pennywise
+* Catwoman
+* Scream
